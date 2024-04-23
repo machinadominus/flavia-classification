@@ -1,7 +1,4 @@
-# leaf_multiclassification
-### Deep Learning Project Experience
-
-**Project Title:** Image Classification for Ayurvedic Medicine
+# Image Classification for Ayurvedic Medicine
 
 **Description:**  
 Developed a deep learning-based image classification system to assist in medical diagnosis using the FLAVIA (Foliage Leaves Automatic Visual Identification and Analysis) dataset, a collection of images of plant leaves. Applied various state-of-the-art deep learning architectures and traditional machine learning algorithms to achieve accurate classification results.
